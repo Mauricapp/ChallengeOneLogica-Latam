@@ -1,0 +1,136 @@
+*{
+	margin: 0;
+	padding: 0;}
+
+#body {
+	background-color: lightcyan ;}
+
+.contenedor{
+	width:1200px ;
+	height: 300px;
+	background-color: white;
+	margin: 0.5em auto;
+	padding: 0.5em auto;
+	border-radius: 1em;}
+
+.titulo {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.caja1 {
+	position: relative;
+	background-color: #D1F2EB;
+	width: 420px;
+	height: 180px;
+	margin: 0 auto;
+	right: 20%;
+	top: 5%;
+	border-radius: 1em;
+}
+.textoinput{
+text-align: center;
+font-size: 80%;
+font-family: arial;
+position: absolute;
+top: 15px;
+right: 0px;
+left: 0px;
+}
+
+#input{
+	height: 80px ;
+	width: 400px;
+	border-radius: 1em;
+	position: absolute;
+	left: 8px;
+	top: 25%;
+}
+
+
+#Encriptar { 
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	width: 10em;
+	height: 2em;
+	background-color: #1ABC9C;
+	color: black;
+	border-radius: 0.5em;
+	position: absolute;
+	top: 75%;
+	left: 15%;
+	}
+
+
+#Desencriptar {	
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	width: 10em;
+	height: 2em;	
+	background-color: #1ABC9C;
+	border-radius: 0.5em;
+	position: absolute;
+	top: 75%;
+	left: 50%;}
+
+
+.caja2{
+
+	background-color: #D1F2EB;
+	width: 420px;
+	height: 180px;
+	margin: 0 auto;
+	border-radius: 1em;
+	position: relative;
+	left: 20%;
+	bottom: 55%;
+
+}
+
+#input2{	
+	height: 80px ;
+	width: 400px;
+	border-radius: 1em;
+	position: absolute;
+	left: 8px;
+	top: 25%;
+
+}
+
+#Botoncopiar{
+
+	font-family:Verdana, Geneva, Tahoma, sans-serif ;
+	color: #black;
+	width: 10em;
+	height: 2em;
+	background-color: #1ABC9C;
+	border-radius: 0.5em;
+	position: absolute;
+	bottom: 10%;
+	right: 34%;
+
+}
+
+.pieDepagina{
+text-align: center;
+font-family: sans-serif ;
+color: #0D47A1;
+}
+
+
+
+.imggithub{
+
+width: 30px ;
+height: 30px;
+position: absolute;
+left: 47%;
+bottom: 37%;
+}
+
+.imglink{
+width: 30px ;
+height: 30px;
+position: absolute;
+left: 50%;
+bottom: 37%;
+}
