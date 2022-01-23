@@ -15,7 +15,9 @@
 
 .titulo {
 text-align: center;
-font-family: Verdana, Geneva, Tahoma, sans-serif;}
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
 
 
 .caja1 {
@@ -39,7 +41,7 @@ left: 0px;
 }
 
 #input{
-	height: 90px ;
+	height: 80px ;
 	width: 400px;
 	border-radius: 1em;
 	position: absolute;
@@ -87,7 +89,7 @@ left: 0px;
 }
 
 #input2{	
-	height: 90px ;
+	height: 80px ;
 	width: 400px;
 	border-radius: 1em;
 	position: absolute;
@@ -122,7 +124,7 @@ color: #0D47A1;
 
 width: 30px ;
 height: 30px;
-position: absolute;
+position: fixed;
 left: 47%;
 bottom: 37%;
 }
@@ -130,7 +132,7 @@ bottom: 37%;
 .imglink{
 width: 30px ;
 height: 30px;
-position: absolute;
+position: fixed;
 left: 50%;
 bottom: 37%;
 }
